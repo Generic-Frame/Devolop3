@@ -5,6 +5,7 @@
 
 int main()
 {
+	printf("first func\n");
 #ifdef SLAVE
 
 	app_gbl_t *resc = app_global_def();
