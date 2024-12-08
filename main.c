@@ -34,4 +34,5 @@ int main()
 		usleep(2000);
 	}
 	printf("hello");
+	printf("end\n");
 }
